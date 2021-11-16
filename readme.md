@@ -1,6 +1,6 @@
 # Ecommerce Project
 
-###This Project is simple example of e-commerce application. 
+### This Project is simple example of e-commerce application. 
 
 #### Steps after clone this repo
 
